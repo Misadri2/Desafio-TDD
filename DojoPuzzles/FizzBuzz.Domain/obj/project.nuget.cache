@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nGzMewLKkMf5yXLEn/dBJgnzGki62+r82Q/5Bq/OgAc7ibPAHZX3s+OdYMzCsbolsDf8R3PPFO7EpNl5Ps/uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAON\\Projetos\\Desafio TDD GFT\\DojoPuzzles\\FizzBuzz.Domain\\FizzBuzz.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAON\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

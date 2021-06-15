@@ -1,0 +1,13 @@
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.exe
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.deps.json
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.runtimeconfig.json
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.runtimeconfig.dev.json
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.dll
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.pdb
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.csprojAssemblyReference.cache
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.AssemblyInfoInputs.cache
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.AssemblyInfo.cs
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.dll
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.pdb
+C:\Users\MAON\Projetos\Desafio TDD GFT\JoKenPo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.genruntimeconfig.cache

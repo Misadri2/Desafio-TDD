@@ -1,0 +1,15 @@
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\FizzBuzz.Domain.exe
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\FizzBuzz.Domain.deps.json
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\FizzBuzz.Domain.runtimeconfig.json
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\FizzBuzz.Domain.runtimeconfig.dev.json
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\FizzBuzz.Domain.dll
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\FizzBuzz.Domain.pdb
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.csprojAssemblyReference.cache
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.AssemblyInfoInputs.cache
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.AssemblyInfo.cs
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.csproj.CopyComplete
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.dll
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.pdb
+C:\Users\MAON\Projetos\Desafio TDD GFT\DojoPuzzles\FizzBuzz.Domain\obj\Debug\netcoreapp3.1\FizzBuzz.Domain.genruntimeconfig.cache

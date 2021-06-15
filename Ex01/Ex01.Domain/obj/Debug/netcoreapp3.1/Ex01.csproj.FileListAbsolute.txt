@@ -1,0 +1,13 @@
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.csprojAssemblyReference.cache
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.AssemblyInfoInputs.cache
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.AssemblyInfo.cs
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\bin\Debug\netcoreapp3.1\Ex01.exe
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\bin\Debug\netcoreapp3.1\Ex01.deps.json
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\bin\Debug\netcoreapp3.1\Ex01.runtimeconfig.json
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\bin\Debug\netcoreapp3.1\Ex01.runtimeconfig.dev.json
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\bin\Debug\netcoreapp3.1\Ex01.dll
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\bin\Debug\netcoreapp3.1\Ex01.pdb
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.dll
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.pdb
+C:\Users\MAON\projetos\ExerciciosPOO\Ex01\obj\Debug\netcoreapp3.1\Ex01.genruntimeconfig.cache
