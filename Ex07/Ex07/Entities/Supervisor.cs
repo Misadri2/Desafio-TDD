@@ -1,3 +1,5 @@
+using System;
+
 namespace Ex07.Entities
 {
         public class Supervisor : Funcionario
@@ -16,6 +18,8 @@ namespace Ex07.Entities
         public override void Bonificacao(double Bonificacao)
         {
             base.Bonificacao(Bonificacao);
+            if (Salario < 10)
+                throw new ArgumentException("Salário inválido");
             Salario += 5000;
         }
     }

@@ -1,4 +1,3 @@
-using System;
 using Jokenpo.Domain;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -9,7 +8,6 @@ namespace Jokenpo.Tests.Domain
     {
 
         /* {1}Pedra, {2}Papel, {3}Tesoura */
-
 
         [TestMethod]
         [TestCategory("Domain")]
@@ -53,7 +51,17 @@ namespace Jokenpo.Tests.Domain
             var resultado = Program.CalcularJogada(jogada1, jogada2);
             Assert.AreEqual(1, resultado);
 
-        }
-                      
+        } 
+
+        [TestMethod]
+        [TestCategory("Domain")]
+        public void Não_Deve_Aceitar_Número_Nulo()
+        {
+            var jogada1 = 9;
+            var jogada2 = 5;
+            var resultado = Program.CalcularJogada(jogada1, jogada2);
+            Assert.AreEqual(0, resultado);
+
+        }                     
     }
 }

@@ -38,17 +38,16 @@ namespace Ex03.Tests
             var mago = new Mago(_nome, _vida, _mana, _xp, _inteligencia, _forca, _level);
 
             Assert.NotNull(mago);
-        }
+        }        
 
         [Theory]
         [InlineData("")]
-        [InlineData(null)]
+        [InlineData(null)]        
         public void Nao_pode_mago_aprender_magia_invalida(string magiaInvalida)
         {
             Assert.Throws<ArgumentException>(() => new Mago(_nome, _vida, _mana, _xp, _inteligencia, _forca, _level).aprenderMagia(magiaInvalida));
                                     
         }
-
         [Theory]
         [InlineData("")]
         [InlineData(null)]

@@ -64,5 +64,41 @@ namespace Ex07.Tests
             vendedor.Bonificacao(5);
             Assert.NotNull(vendedor);        
         }
+
+        [Theory]
+        [InlineData(0)]
+        [InlineData(-10)]
+        [InlineData(-50)]
+        public void Nao_deve_vendedor_adicionar_bonificacao_se_salario_invalido(double _salarioInvalido)
+        {
+            var vendedor = new Vendedor(_nome, _idade, _salarioInvalido);
+            
+            Assert.Throws<ArgumentException>(() => vendedor.Bonificacao(5));
+                                               
+        }
+
+        [Theory]
+        [InlineData(0)]
+        [InlineData(-10)]
+        [InlineData(-50)]
+        public void Nao_deve_Supervisor_adicionar_bonificacao_se_salario_invalido(double _salarioInvalido)
+        {
+            var supervisor = new Supervisor(_nome, _idade, _salarioInvalido);
+            
+            Assert.Throws<ArgumentException>(() => supervisor.Bonificacao(5));
+                                               
+        }
+
+        [Theory]
+        [InlineData(0)]
+        [InlineData(-10)]
+        [InlineData(-50)]
+        public void Nao_deve_Gerente_adicionar_bonificacao_se_salario_invalido(double _salarioInvalido)
+        {
+            var gerente = new Gerente(_nome, _idade, _salarioInvalido);
+            
+            Assert.Throws<ArgumentException>(() => gerente.Bonificacao(5));
+                                               
+        }
     }
 }

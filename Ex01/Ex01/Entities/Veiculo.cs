@@ -16,11 +16,7 @@ namespace Ex01.Entities
         public int LitrosCombustível { get; set; }
         public int Velocidade { get; set; }
         public double Preco { get; set; }
-
-        public Veiculo()
-        {
-
-        }
+       
         public Veiculo(string marca, string modelo, string placa, string cor, float km, Boolean isligado, int litroscombustivel, int velocidade, double preco)
         {
             Marca = marca;
@@ -39,6 +35,10 @@ namespace Ex01.Entities
             this.limiteCombustivelInvalido = limiteCombustivelInvalido;
         }
 
+        public Veiculo()
+        {
+        }
+
         public void Acelerar() => Velocidade += 20;
         public void Abastecer(int combustivel)
         {
@@ -51,11 +51,12 @@ namespace Ex01.Entities
 
         public void Frear()
         {
-            if (Velocidade == 0)
-                Console.WriteLine("Veículo está parado");
-            else
-                Velocidade -= 20;
+             if (Velocidade == 0 || IsLigado == false)
+                throw new ArgumentException("Não foi possível frear!");
+            
+            Velocidade -= 20;
         }
+        
         public void Pintar(string Cor)
         {
 
@@ -63,26 +64,20 @@ namespace Ex01.Entities
 
         public void ligar()
         {
-            if (IsLigado == false)
-            {
-                Console.WriteLine("Ligar veículo");
-            }
-            else
-            {
-                Console.WriteLine("Veículo está ligado");
-            }
+            if (IsLigado == true)
+                throw new ArgumentException("O carro já está ligado!");
+
+            IsLigado = true;
 
         }
         public void desligar()
         {
-            if (IsLigado == true)
+            if (IsLigado != true)
             {
-                Console.WriteLine("Desligar veículo");
-            }
-            else
-            {
-                Console.WriteLine("Veículo está desligado");
-            }
+                throw new ArgumentException("O carro está desligado");
+                
+            }Console.WriteLine("Desligar veículo");
+            
         }
     }
 }
