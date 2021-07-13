@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using FizzBuzz.Domain.Entities;
 
 namespace FizzBuzz.Domain
@@ -11,14 +12,45 @@ namespace FizzBuzz.Domain
         //Não divisível por 3 e 5 => entrada
         // Qualquer string => NaN
         static void Main(string[] args)
-        {           
+        {
+            //Resolução oficial enviada para Gitlab
             List<string> Numeros = new List<string>();
 
             var fizzBuzz = new FBProgram(Numeros);
 
             fizzBuzz.Executar(Numeros);
-            fizzBuzz.Listar(Numeros);
-            
+            fizzBuzz.Listar(Numeros); 
+
+
+            //Resolução 2
+            /* var word = "fizz";
+            var word1 = "buzz";
+            var word2 = "fizzbuzz";
+            var count = 100;
+
+            while (count > 0)
+            {
+                count = count - 1;
+
+                if (count % 3 == 0)
+                {
+                    Console.WriteLine(word);
+                }
+                if (count % 5 == 0)
+                {
+                    Console.WriteLine(word1);
+                }
+                if (count % 5 == 0 && count % 3 == 0)
+                {
+                    Console.WriteLine(word2);
+                }
+                if (count % 5 != 0 && count % 3 != 0)
+                {
+                    Console.WriteLine(count);
+                } 
+                
+            } */
         }
     }
 }
+
